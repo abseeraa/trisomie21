@@ -32,9 +32,7 @@ Nach einem Rundgang durchs Wohnheim Acherli wird Pia im ,,Pikettzimmer’’ int
 
 ## Was passiert mit den Chromosomen bei Trisomie 21?
 
-{{<box>}}
-
-***Kasten Genetik***
+{{<box>}} Genetik
 
 Die DNA besteht aus zwei Ketten von Nukleotiden. Ein Nukleotid setzt sich aus Phosphat, Zucker und vier verschiedenen Basen zusammen. Die DNA hat eine Struktur, die als Doppelhelix bezeichnet wird. Die Gene prägen die Merkmale aus und sind die Baupläne, die Proteine erzeugen, welche wiederum Merkmale bestimmen. Wenn Gene beispielsweise für Proteine codieren, die viel Melanin produzieren, resultiert dies in brauner Haarfarbe. Die Gene sind Abschnitte auf der DNA, von denen sich etwa 25.000 auf unserer DNA befinden. Gene zusammen bilden das Genom oder die Gesamtheit aller Chromosomen in einer Zelle. Ein Chromosom besteht aus zwei Chromatiden, was bedeutet, dass ein Chromatid eine aufgewickelte DNA ist. Die DNA wickelt sich um Histone (Proteine), und dieser Wicklungsprozess wiederholt sich, bis ein Chromosom entsteht. In einer menschlichen Körperzelle befinden sich 46 Chromosomen, was 23 Chromosomenpaaren entspricht. Die Hälfte der Chromosomen, also 23, werden von der Mutter und die anderen vom Vater vererbt. 
 
