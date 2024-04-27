@@ -3,6 +3,7 @@ title = "Trisomie 21: Mehr als nur ein genetischer Zustand eine Feier der Indivi
 date = "2024-04-26"
 draft = false
 pinned = false
+tags = []
 footnotes = "Abbildung 4: Verdreifachung des 21 Chromosoms (https://touchdown21.info/de/seite/5-trisomie-21/article/348-was-ist-die-ursache-des-down-syndroms.html?hicontrast=true)"
 +++
 {{<lead>}}
