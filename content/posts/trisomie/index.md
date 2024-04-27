@@ -1,11 +1,9 @@
 +++
-title = "Trisomie"
+title = "Trisomie 21: Mehr als nur ein genetischer Zustand eine Feier der Individualität"
 date = "2024-04-26"
 draft = false
 pinned = false
 +++
-# Trisomie 21: Mehr als nur ein genetischer Zustand eine Feier der Individualität
-
 {{<lead>}}
 
 Die genetische Störung bekannt als ,,Down-Syndrom’’ kennt mittlerweile die Mehrheit der Bevölkerung. Jedoch werden die Menschen mit Trisomie 21 oft noch von der Gesellschaft ausgegrenzt. 
@@ -54,13 +52,9 @@ Die 56-jährige Brigitte Hofstetter arbeitet seit 15 Jahren im Therapiehof Schwa
 
 {{</box>}}
 
-
-
 ### *<<Beim Umgang mit dem Pferd sind viele sehr vorsichtig und lieben es mit dem Pferd zu schmusen.>>*
 
 Sie berichtet, dass sie ihren Beruf liebt, sowohl die Arbeit in der Praxis als auch die Hippotherapie. Dabei steht der Mensch im Mittelpunkt. Die Hippotherapie ermöglicht es ihr, ihren Beruf mit ihrem Hobby zu verbinden. Sie betont die körperliche Anstrengung und dass sie bei jedem Wetter draussen ist. Sie erwähnt, dass sie sehr fröhliche, herzliche Menschen mit einer Vielfalt an Talenten sind. Von den Kindern, die betreut werden, singen die meisten, zum Beispiel wenn sie im Wald unterwegs sind. 
-
-
 
 ##  ,,Neunzig von hundert Paaren treiben ab, wenn sie die Diagnose erfahren.’’ Wie reagieren die Eltern auf die Diagnose?
 
