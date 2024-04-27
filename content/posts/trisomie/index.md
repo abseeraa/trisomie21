@@ -50,13 +50,9 @@ In der Physiotherapie ist die Hippotherapie (HTK) ein spezialisierter Bereich. D
 
 Die 56-jährige Brigitte Hofstetter arbeitet seit 15 Jahren im Therapiehof Schwand, wobei sie mit Islandpferden zusammenarbeitet und verantwortlich ist, die Klienten mit der Bewegung, sowie das Auf- und Absteigen auf der Rampe zu helfen. Sie ist eine selbstständige Physiotherapeutin und hat ihre eigene Praxis. Als eine Physiokollegin erzählte, dass sie als Hippotherapeutin tätig sei, prüfte sie zunächst, ob sie die zusätzliche Anforderung erfüllte, und absolvierte daraufhin die Ausbildung. 
 
-{{</box>}}
+{{</box>}
 
-> ### *<<Beim Umgang mit dem Pferd sind viele sehr vorsichtig und lieben es mit dem Pferd zu schmusen.>>*
->
-> Sie berichtet, dass sie ihren Beruf liebt, sowohl die Arbeit in der Praxis als auch die Hippotherapie. Dabei steht der Mensch im Mittelpunkt. Die Hippotherapie ermöglicht es ihr, ihren Beruf mit ihrem Hobby zu verbinden. Sie betont die körperliche Anstrengung und dass sie bei jedem Wetter draussen ist. Sie erwähnt, dass sie sehr fröhliche, herzliche Menschen mit einer Vielfalt an Talenten sind. Von den Kindern, die betreut werden, singen die meisten, zum Beispiel wenn sie im Wald unterwegs sind. 
-
-###  **,,Neunzig von hundert Paaren treiben ab, wenn sie die Diagnose erfahren.’’ Wie reagieren die Eltern auf die Diagnose?**
+> ### ,,Beim Umgang mit dem Pferd sind viele sehr vorsichtig und lieben es mit dem Pferd zu schmusen.’’
 
 Nach einigen Minuten warten trifft Frau Aurélie Yekpe ein. Sie ist Gynäkologin (Frauenärztin) und Geburtshelferin. Sie betreut Frauen vor und nach der Schwangerschaft, sowie bei der Geburt des Kindes. Ihr Untersuchungszimmer, wo man ebenfalls Ultraschalle macht, wirkt alles sehr sauber und gut desinfiziert. 
 
