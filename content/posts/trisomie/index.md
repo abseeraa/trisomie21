@@ -46,7 +46,7 @@ Die Trisomie 21 wird oft mit Hör- und Sehstörungen begleitet, welche bei Kinde
 
 In der Physiotherapie ist die Hippotherapie (HTK) ein spezialisierter Bereich. Die Durchführung erfolgt in Kooperation mit einem Pferd. Es ist eine medizinisch Behandlungsmassnahme, die die Übertragung von Pferdebewegungen auf den Patienten verwendet. Der Patient wird durch die Bewegung des Pferdes unterstützt und bewegt sich mit ihm. Er wirkt sich nicht aktiv auf das Pferd aus. "Die HTK ist somit kein Reiten, auch kein therapeutisches Reiten", äussert Brigitte Hofstetter. Die Bewegungen, welche konstant, dreidimensional und in einem Rhythmus erfolgen, haben positive Auswirkungen, darunter die Lockerung der Muskulatur, Gleichgewicht und Koordination. Das Trainieren der Körpersymmetrie, die Stärkung der Muskulatur und die Förderung der Rumpfstabilität ist insbesondere bei Trisomie 21 ein zentrales Ziel. Physiotherapeutin der Neurologischen Klinik Basel, Ursula Künzler, absolvierte in England Einsicht bei einem Reitbetrieb sogenannt "Riding for disabled" und entwickelte eine Therapie und erhielt die offizielle Anerkennung. Die HTK ist für Junge wie auch für Erwachsene geeignet, aber vor allem für Patienten mit angeborenen Bewegungsstörungen, jedoch profitieren auch Patienten mit Hemiparesen von der Hippotherapie. Laut Brigitte wird die HTK bei Trisomie 21 von der Invalidensicherung bezahlt. Rezeptiert wird die Therapie vom Kinderarzt, Neurologen oder Hausarzt und die Zahlung wird von der Krankenkasse übernommen. "Aber jede Therapiestunde wirkt immer sofort", erklärt Frau Hofstetter. Aufgrund der kognitiven Beeinträchtigung von Kindern mit Trisomie 21 ist es oft schwierig, eine regelmässige Physiotherapie durchzuführen. In diesem Zusammenhang hat das Pferd eine wichtige Funktion als Motivator, da es die Kinder anregt, begeistert und aktiv macht. Auf diese Weise wird die Therapie zu einer angenehmen Erfahrung, in der die Kinder auch, wenn sie dem Pferd nicht entfliehen können, erfolgreich sein werden.
 
-{{<box>}} ***Brigitte Hofstetter***
+{{<box>}} Brigitte Hofstetter
 
 Die 56-jährige Brigitte Hofstetter arbeitet seit 15 Jahren im Therapiehof Schwand, wobei sie mit Islandpferden zusammenarbeitet und verantwortlich ist, die Klienten mit der Bewegung, sowie das Auf- und Absteigen auf der Rampe zu helfen. Sie ist eine selbstständige Physiotherapeutin und hat ihre eigene Praxis. Als eine Physiokollegin erzählte, dass sie als Hippotherapeutin tätig sei, prüfte sie zunächst, ob sie die zusätzliche Anforderung erfüllte, und absolvierte daraufhin die Ausbildung. 
 
@@ -62,7 +62,7 @@ Nach einigen Minuten warten trifft Frau Aurélie Yekpe ein. Sie ist Gynäkologin
 
 ![Abbildung 5: Medbase Bern (Abseera und Célestine)](medbase.jpg)
 
-{{<box>}} ***Dr. med. Aurélie Yekpe***
+{{<box>}} Dr. med. Aurélie Yekpe
 
 Aurélie Yekpe ist 60 Jahre alt. Sie arbeitet im Spital Medbase am Bahnhof Bern. Nach langen hin und her hat sie sich für die Ausbildung als Gynäkologin und Geburtshelferin entschieden. Studiert hat Frau Yekpe in drei Ländern, zuerst in der Elfenbeinküste danach in Österreich und in Frankreich. Frau Yekpe hat auch ein grosses Interesse an Chirurgie für Fehlbildungen, und würde manchmal auch gerne in einer Praxis arbeiten, wo man nur fünf Patient*innen pro Tag hat. Ihr jetziger Job macht Frau Yekpe sehr viel Spass. Sie liebt es, bei Geburten dabei zu sein, da man nie wissen kann, wie das Ganze ablaufen wird.
 
