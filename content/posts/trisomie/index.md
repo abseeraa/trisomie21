@@ -50,7 +50,7 @@ In der Physiotherapie ist die Hippotherapie (HTK) ein spezialisierter Bereich. D
 
 Die 56-jährige Brigitte Hofstetter arbeitet seit 15 Jahren im Therapiehof Schwand, wobei sie mit Islandpferden zusammenarbeitet und verantwortlich ist, die Klienten mit der Bewegung, sowie das Auf- und Absteigen auf der Rampe zu helfen. Sie ist eine selbstständige Physiotherapeutin und hat ihre eigene Praxis. Als eine Physiokollegin erzählte, dass sie als Hippotherapeutin tätig sei, prüfte sie zunächst, ob sie die zusätzliche Anforderung erfüllte, und absolvierte daraufhin die Ausbildung. 
 
-{{</box>}
+{{</box>}}
 
 ### ,,Beim Umgang mit dem Pferd sind viele sehr vorsichtig und lieben es mit dem Pferd zu schmusen.’’
 
