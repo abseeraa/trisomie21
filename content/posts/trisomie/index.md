@@ -3,6 +3,7 @@ title = "Trisomie 21: Mehr als nur ein genetischer Zustand eine Feier der Indivi
 date = "2024-04-26"
 draft = false
 pinned = false
+footnotes = "Abbildung 4: Verdreifachung des 21 Chromosoms (https://touchdown21.info/de/seite/5-trisomie-21/article/348-was-ist-die-ursache-des-down-syndroms.html?hicontrast=true)"
 +++
 {{<lead>}}
 
@@ -38,7 +39,7 @@ Die DNA besteht aus zwei Ketten von Nukleotiden. Ein Nukleotid setzt sich aus Ph
 
 Laut der Webseite Kinder- & Jugendärzte im Netz wurde erst 1959 von französischen Wissenschaftlern entdeckt, dass Menschen mit Down-Syndrom 47 Chromosomen anstelle der üblichen 46 besitzen und das Chromosom 21 dreifach vorhanden ist. Dieser Fehler tritt während der Bildung von Keimzellen auf, wenn eine fehlerhafte Meiose dazu führt, dass Keimzellen das Chromosom 21 zweimal enthalten und somit 24 Chromosomen haben. Bei der Befruchtung einer solchen Keimzelle mit einer normalen entsteht ein Kind mit Trisomie 21, das 47 Chromosomen hat. Es gibt verschiedene Formen der Trisomie 21, die auftreten können. Die freie Trisomie 21 ist die häufigste und tritt bei 95% der Menschen mit Down-Syndrom auf. Daneben gibt es das Mosaik-Trisomie 21, das nur in 1-2% der Fälle vorkommt. Sehr selten ist die partielle Trisomie 21, von der weltweit 100 Fälle bekannt sind. In 3-4% der Fälle liegt eine Translokations-Trisomie 21 vor.
 
-![Abbildung 4: Verdreifachung des 21 Chromosoms (Abseera und Célestine)]()
+![Abbildung 4: Verdreifachung des 21 Chromosoms](chromosom-3.png)
 
 Die Trisomie 21 wird oft mit Hör- und Sehstörungen begleitet, welche bei Kindern häufig zu Kommunikationsschwierigkeiten führt. Zudem sind Herzerkrankungen und Verdauungsstörungen üblich. Kinder mit Trisomie 21 leiden oft an Zöliakie und Autoimmunerkrankungen wie Typ-1-Diabetes. Infektionen der Atemwege sind ebenfalls häufig aufgrund eines unterentwickelten Immunsystems. Leukämie tritt bei Betroffenen häufiger auf, und sie können auch unter Schlafapnoe leiden, einer Störung, die während des Schlafs zu wiederholten, kurzen Atemaussetzern führt. Psychiatrische Erkrankungen wie Hyperaktivität, Zwangsstörungen und Angststörungen werden bei diesen Kindern oft diagnostiziert.
 
@@ -62,7 +63,7 @@ Sie berichtet, dass sie ihren Beruf liebt, sowohl die Arbeit in der Praxis als a
 
 Nach einigen Minuten warten trifft Frau Aurélie Yekpe ein. Sie ist Gynäkologin (Frauenärztin) und Geburtshelferin. Sie betreut Frauen vor und nach der Schwangerschaft, sowie bei der Geburt des Kindes. Ihr Untersuchungszimmer, wo man ebenfalls Ultraschalle macht, wirkt alles sehr sauber und gut desinfiziert. 
 
-![Abbildung 5: Medbase Bern (Abseera und Célestine)](medbase.jpg)
+![Abbildung 5: Medbase Bern (Abseera und Célestine)](medbase.jpeg)
 
 {{<box>}} Dr. med. Aurélie Yekpe
 
