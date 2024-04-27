@@ -52,7 +52,7 @@ Die 56-jährige Brigitte Hofstetter arbeitet seit 15 Jahren im Therapiehof Schwa
 
 {{</box>}
 
-> *,,Beim Umgang mit dem Pferd sind viele sehr vorsichtig und lieben es mit dem Pferd zu schmusen.’’*
+> ### *,,Beim Umgang mit dem Pferd sind viele sehr vorsichtig und lieben es mit dem Pferd zu schmusen.’’*
 
 ### ,,Neunzig von hundert Paaren treiben ab, wenn sie die Diagnose erfahren.’’ Wie reagieren die Eltern auf die Diagnose?
 
