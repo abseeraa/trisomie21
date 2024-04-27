@@ -37,9 +37,11 @@ Laut der Webseite Kinder- & Jugendärzte im Netz wurde erst 1959 von französisc
 
 Die Trisomie 21 wird oft mit Hör- und Sehstörungen begleitet, welche bei Kindern häufig zu Kommunikationsschwierigkeiten führt. Zudem sind Herzerkrankungen und Verdauungsstörungen üblich. Kinder mit Trisomie 21 leiden oft an Zöliakie und Autoimmunerkrankungen wie Typ-1-Diabetes. Infektionen der Atemwege sind ebenfalls häufig aufgrund eines unterentwickelten Immunsystems. Leukämie tritt bei Betroffenen häufiger auf, und sie können auch unter Schlafapnoe leiden, einer Störung, die während des Schlafs zu wiederholten, kurzen Atemaussetzern führt. Psychiatrische Erkrankungen wie Hyperaktivität, Zwangsstörungen und Angststörungen werden bei diesen Kindern oft diagnostiziert.
 
-
+{{<box title="Grundlagen der Genetik">}}
 
 Die DNA besteht aus zwei Ketten von Nukleotiden. Ein Nukleotid setzt sich aus Phosphat, Zucker und vier verschiedenen Basen zusammen. Die DNA hat eine Struktur, die als Doppelhelix bezeichnet wird. Die Gene prägen die Merkmale aus und sind die Baupläne, die Proteine erzeugen, welche wiederum Merkmale bestimmen. Wenn Gene beispielsweise für Proteine codieren, die viel Melanin produzieren, resultiert dies in brauner Haarfarbe. Die Gene sind Abschnitte auf der DNA, von denen sich etwa 25.000 auf unserer DNA befinden. Gene zusammen bilden das Genom oder die Gesamtheit aller Chromosomen in einer Zelle. Ein Chromosom besteht aus zwei Chromatiden, was bedeutet, dass ein Chromatid eine aufgewickelte DNA ist. Die DNA wickelt sich um Histone (Proteine), und dieser Wicklungsprozess wiederholt sich, bis ein Chromosom entsteht. In einer menschlichen Körperzelle befinden sich 46 Chromosomen, was 23 Chromosomenpaaren entspricht. Die Hälfte der Chromosomen, also 23, werden von der Mutter und die anderen vom Vater vererbt. 
+
+{{</box>}}
 
 
 
