@@ -52,13 +52,7 @@ Die 56-jährige Brigitte Hofstetter arbeitet seit 15 Jahren im Therapiehof Schwa
 
 {{</box>}
 
-
-
-> ### *,,Beim Umgang mit dem Pferd sind viele sehr vorsichtig und lieben es mit dem Pferd zu schmusen.’’*
->
-> *\-Brigitte Hofstetter*
-
-Sie berichtet, dass sie ihren Beruf liebt, sowohl die Arbeit in der Praxis als auch die Hippotherapie. Dabei steht der Mensch im Mittelpunkt. Die Hippotherapie ermöglicht es ihr, ihren Beruf mit ihrem Hobby zu verbinden. Sie betont die körperliche Anstrengung und dass sie bei jedem Wetter draussen ist. Sie erwähnt, dass sie sehr fröhliche, herzliche Menschen mit einer Vielfalt an Talenten sind. Von den Kindern, die betreut werden, singen die meisten, zum Beispiel wenn sie im Wald unterwegs sind. 
+> *,,Beim Umgang mit dem Pferd sind viele sehr vorsichtig und lieben es mit dem Pferd zu schmusen.’’*
 
 ### ,,Neunzig von hundert Paaren treiben ab, wenn sie die Diagnose erfahren.’’ Wie reagieren die Eltern auf die Diagnose?
 
