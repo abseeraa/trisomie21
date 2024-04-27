@@ -39,9 +39,11 @@ Die DNA besteht aus zwei Ketten von Nukleotiden. Ein Nukleotid setzt sich aus Ph
 
 Laut der Webseite Kinder- & Jugendärzte im Netz wurde erst 1959 von französischen Wissenschaftlern entdeckt, dass Menschen mit Down-Syndrom 47 Chromosomen anstelle der üblichen 46 besitzen und das Chromosom 21 dreifach vorhanden ist. Dieser Fehler tritt während der Bildung von Keimzellen auf, wenn eine fehlerhafte Meiose dazu führt, dass Keimzellen das Chromosom 21 zweimal enthalten und somit 24 Chromosomen haben. Bei der Befruchtung einer solchen Keimzelle mit einer normalen entsteht ein Kind mit Trisomie 21, das 47 Chromosomen hat. Es gibt verschiedene Formen der Trisomie 21, die auftreten können. Die freie Trisomie 21 ist die häufigste und tritt bei 95% der Menschen mit Down-Syndrom auf. Daneben gibt es das Mosaik-Trisomie 21, das nur in 1-2% der Fälle vorkommt. Sehr selten ist die partielle Trisomie 21, von der weltweit 100 Fälle bekannt sind. In 3-4% der Fälle liegt eine Translokations-Trisomie 21 vor.
 
-![Abbildung 4: Verdreifachung des 21 Chromosoms](chromosom-3.png)
+![Abbildung 4: Verdreifachung des 21 Chromosoms](chromosom-3.jpeg)
 
 Die Trisomie 21 wird oft mit Hör- und Sehstörungen begleitet, welche bei Kindern häufig zu Kommunikationsschwierigkeiten führt. Zudem sind Herzerkrankungen und Verdauungsstörungen üblich. Kinder mit Trisomie 21 leiden oft an Zöliakie und Autoimmunerkrankungen wie Typ-1-Diabetes. Infektionen der Atemwege sind ebenfalls häufig aufgrund eines unterentwickelten Immunsystems. Leukämie tritt bei Betroffenen häufiger auf, und sie können auch unter Schlafapnoe leiden, einer Störung, die während des Schlafs zu wiederholten, kurzen Atemaussetzern führt. Psychiatrische Erkrankungen wie Hyperaktivität, Zwangsstörungen und Angststörungen werden bei diesen Kindern oft diagnostiziert.
+
+
 
 ### **Verbindung von Mensch und Pferd für Heilung und Wohlbefinden**
 
@@ -58,6 +60,8 @@ Die 56-jährige Brigitte Hofstetter arbeitet seit 15 Jahren im Therapiehof Schwa
 > *Brigitte Hofstetter*
 
 Sie berichtet, dass sie ihren Beruf liebt, sowohl die Arbeit in der Praxis als auch die Hippotherapie. Dabei steht der Mensch im Mittelpunkt. Die Hippotherapie ermöglicht es ihr, ihren Beruf mit ihrem Hobby zu verbinden. Sie betont die körperliche Anstrengung und dass sie bei jedem Wetter draussen ist. Sie erwähnt, dass sie sehr fröhliche, herzliche Menschen mit einer Vielfalt an Talenten sind. Von den Kindern, die betreut werden, singen die meisten, zum Beispiel wenn sie im Wald unterwegs sind. 
+
+
 
 ### **,,Neunzig von hundert Paaren treiben ab, wenn sie die Diagnose erfahren.’’ Wie reagieren die Eltern auf die Diagnose?**
 
