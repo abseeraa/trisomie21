@@ -52,7 +52,7 @@ Die 56-jährige Brigitte Hofstetter arbeitet seit 15 Jahren im Therapiehof Schwa
 
 {{</box>}
 
-> ### ,,Beim Umgang mit dem Pferd sind viele sehr vorsichtig und lieben es mit dem Pferd zu schmusen.’’
+> ### <<Beim Umgang mit dem Pferd sind viele sehr vorsichtig und lieben es mit dem Pferd zu schmusen.>>
 
 Nach einigen Minuten warten trifft Frau Aurélie Yekpe ein. Sie ist Gynäkologin (Frauenärztin) und Geburtshelferin. Sie betreut Frauen vor und nach der Schwangerschaft, sowie bei der Geburt des Kindes. Ihr Untersuchungszimmer, wo man ebenfalls Ultraschalle macht, wirkt alles sehr sauber und gut desinfiziert. 
 
