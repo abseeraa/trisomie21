@@ -16,19 +16,19 @@ Im Aufenthaltsraum des Wohnheims Acherli stehen rote, bequeme Sofas und ein mit 
 
 ![Abbildung 1: Bild des Warteraums neben dem Sekretariat (Abseera und Célestine)](eingang.jpg)
 
-## Wohnheim Acherli
+### **Wohnheim Acherli**
 
 Das Wohnheim Acherli, im Tscharnergut in Bern gelegen, gibt es bereits seit 30 Jahren. Es ist ein Wohnheim für Menschen mit einem Handicap. Auf der Homepage der Institution ist zu lesen, dass das Acherli Bewohner\*innen auf 12 Wohngruppen sowie drei Aussenwohngruppen und individuelle Betreuung, Begleitung, Förderung und Beratung anbietet. In den Wohngruppen werden alle Handicaps einzeln berücksichtigt. Die Wohngruppen sind gemütlich und einladend gestaltet. Es gibt eine grosse, senfgelbe Küche mit grosser Metallwand, an der Bilder der WG-Bewohner\*innen aufgehängt sind. Als Orientierungshilfe dienen liebevoll angebrachte farbige Sticker. Zudem gibt es Essensbilder, die an Magnetknöpfen geklebt sind. Wenn die Knöpfe gedrückt werden, ist eine weibliche Stimme zu hören: » Für Person XY gibt es heute Fleischbällchen mit Kartoffeln zum Mittagessen’’. Gemäss Olivier werden die Aufnahmen täglich neu aufgenommen. Für die Künstler*innen im Wohnheim gibt es zudem ein Atelier, mit der Möglichkeit Bilder auszustellen. Die Kunstwerke können zudem zwei Mal pro Jahr am Acherli-Märit zum Kauf angeboten werden. 
 
 ![Abbildung 2: Bild von Pia (Abseera und Célestine)](pia.jpg)
 
-## Schauen dich Leute manchmal komisch an? ,, Ja manchmal, aber ich mach mir nichts draus.’’
+### **Schauen dich Leute manchmal komisch an? ,, Ja manchmal, aber ich mach mir nichts draus.’’**
 
 Nach einem Rundgang durchs Wohnheim Acherli wird Pia im ,,Pikettzimmer’’ interviewt. Olivier erzählt, dass das Zimmer nachts für die Bewohner*innen immer zugänglich ist. ,,Es ist wie ein Nachtdienst, jedoch mit der Möglichkeit zu schlafen’’. Das Interview beginnt. Pia Magdalena Heim ist 45 Jahre alt und Künstlerin. Bevor sie ins Wohnheim kam, ging sie immer wieder zu ihren Eltern nach Hause leben. Als sie ins Acherli kam, kannte sie hier schon Olivier. Die Eltern von Pia leben nicht mehr. Pias Mutter erlitt 2022 eine zweite tödliche Hirnblutung. Ihr Vater starb an Leukämie, als sie 12 Jahre alt war. Sie habe zudem zwei Geschwister. Ihre Schwester heirate schon bald, erzählt sie stolz. Pia hat vor ein paar Jahren eine Lehre als Hauswirtschaftsangestellte begonnen. Jedoch konnte sie diese leider nicht fertig machen, da sie an Diabetes Typ-1 leidet. Bei Menschen mit Down-Syndrom ist das Risiko an Diabetes zu erkranken um das Dreifache erhöht. Die Diagnose hinderte sie daran, Sachen zu erledigen, da ihre Zuckerwerte teilweise niedrig waren. Nun konzentriere sie sich auf die Kunst. Pia fügt an, sie habe als Kleinkind schon eine eigene Staffelei gehabt und gerne gemalt. Sie erzählt, dass sie keinen bestimmten Malstil habe, sie zeichne aus dem Kopf, was ihr gerade in den Sinn komme. Im dritten Stock angekommen zeigt Pia uns ihr Zimmer. An ihrer Zimmertür hängt ein Bild ihrer Familie. Es ist eine wohlige Aura zu spüren. Sehr viele warme Farben und ein Tuch über Pias Bett lassen das Zimmer «heimelig» wirken. Pia greift unters Bett und zeigt ihre prachtvollen Kunstwerke, die genauso farbenfroh sind wie ihr Zimmer.
 
 ![Abbildung 3: Bild von Pias Kunstwerken (Abseera und Célestine)](kunstwerke.jpg)
 
-## Was passiert mit den Chromosomen bei Trisomie 21?
+### **Was passiert mit den Chromosomen bei Trisomie 21?**
 
 {{<box>}} Genetik
 
@@ -42,7 +42,7 @@ Laut der Webseite Kinder- & Jugendärzte im Netz wurde erst 1959 von französisc
 
 Die Trisomie 21 wird oft mit Hör- und Sehstörungen begleitet, welche bei Kindern häufig zu Kommunikationsschwierigkeiten führt. Zudem sind Herzerkrankungen und Verdauungsstörungen üblich. Kinder mit Trisomie 21 leiden oft an Zöliakie und Autoimmunerkrankungen wie Typ-1-Diabetes. Infektionen der Atemwege sind ebenfalls häufig aufgrund eines unterentwickelten Immunsystems. Leukämie tritt bei Betroffenen häufiger auf, und sie können auch unter Schlafapnoe leiden, einer Störung, die während des Schlafs zu wiederholten, kurzen Atemaussetzern führt. Psychiatrische Erkrankungen wie Hyperaktivität, Zwangsstörungen und Angststörungen werden bei diesen Kindern oft diagnostiziert.
 
-## Hippotherapie
+### **Verbindung von Mensch und Pferd für Heilung und Wohlbefinden**
 
 In der Physiotherapie ist die Hippotherapie (HTK) ein spezialisierter Bereich. Die Durchführung erfolgt in Kooperation mit einem Pferd. Es ist eine medizinisch Behandlungsmassnahme, die die Übertragung von Pferdebewegungen auf den Patienten verwendet. Der Patient wird durch die Bewegung des Pferdes unterstützt und bewegt sich mit ihm. Er wirkt sich nicht aktiv auf das Pferd aus. "Die HTK ist somit kein Reiten, auch kein therapeutisches Reiten", äussert Brigitte Hofstetter. Die Bewegungen, welche konstant, dreidimensional und in einem Rhythmus erfolgen, haben positive Auswirkungen, darunter die Lockerung der Muskulatur, Gleichgewicht und Koordination. Das Trainieren der Körpersymmetrie, die Stärkung der Muskulatur und die Förderung der Rumpfstabilität ist insbesondere bei Trisomie 21 ein zentrales Ziel. Physiotherapeutin der Neurologischen Klinik Basel, Ursula Künzler, absolvierte in England Einsicht bei einem Reitbetrieb sogenannt "Riding for disabled" und entwickelte eine Therapie und erhielt die offizielle Anerkennung. Die HTK ist für Junge wie auch für Erwachsene geeignet, aber vor allem für Patienten mit angeborenen Bewegungsstörungen, jedoch profitieren auch Patienten mit Hemiparesen von der Hippotherapie. Laut Brigitte wird die HTK bei Trisomie 21 von der Invalidensicherung bezahlt. Rezeptiert wird die Therapie vom Kinderarzt, Neurologen oder Hausarzt und die Zahlung wird von der Krankenkasse übernommen. "Aber jede Therapiestunde wirkt immer sofort", erklärt Frau Hofstetter. Aufgrund der kognitiven Beeinträchtigung von Kindern mit Trisomie 21 ist es oft schwierig, eine regelmässige Physiotherapie durchzuführen. In diesem Zusammenhang hat das Pferd eine wichtige Funktion als Motivator, da es die Kinder anregt, begeistert und aktiv macht. Auf diese Weise wird die Therapie zu einer angenehmen Erfahrung, in der die Kinder auch, wenn sie dem Pferd nicht entfliehen können, erfolgreich sein werden.
 
