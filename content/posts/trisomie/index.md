@@ -31,7 +31,7 @@ Nach einem Rundgang durchs Wohnheim Acherli wird Pia im ,,Pikettzimmer’’ int
 
 ### **Was passiert mit den Chromosomen bei Trisomie 21?**
 
-{{<box>}} Genetik
+{{<box title="Genetik">}}
 
 Die DNA besteht aus zwei Ketten von Nukleotiden. Ein Nukleotid setzt sich aus Phosphat, Zucker und vier verschiedenen Basen zusammen. Die DNA hat eine Struktur, die als Doppelhelix bezeichnet wird. Die Gene prägen die Merkmale aus und sind die Baupläne, die Proteine erzeugen, welche wiederum Merkmale bestimmen. Wenn Gene beispielsweise für Proteine codieren, die viel Melanin produzieren, resultiert dies in brauner Haarfarbe. Die Gene sind Abschnitte auf der DNA, von denen sich etwa 25.000 auf unserer DNA befinden. Gene zusammen bilden das Genom oder die Gesamtheit aller Chromosomen in einer Zelle. Ein Chromosom besteht aus zwei Chromatiden, was bedeutet, dass ein Chromatid eine aufgewickelte DNA ist. Die DNA wickelt sich um Histone (Proteine), und dieser Wicklungsprozess wiederholt sich, bis ein Chromosom entsteht. In einer menschlichen Körperzelle befinden sich 46 Chromosomen, was 23 Chromosomenpaaren entspricht. Die Hälfte der Chromosomen, also 23, werden von der Mutter und die anderen vom Vater vererbt. 
 
@@ -43,13 +43,11 @@ Laut der Webseite Kinder- & Jugendärzte im Netz wurde erst 1959 von französisc
 
 Die Trisomie 21 wird oft mit Hör- und Sehstörungen begleitet, welche bei Kindern häufig zu Kommunikationsschwierigkeiten führt. Zudem sind Herzerkrankungen und Verdauungsstörungen üblich. Kinder mit Trisomie 21 leiden oft an Zöliakie und Autoimmunerkrankungen wie Typ-1-Diabetes. Infektionen der Atemwege sind ebenfalls häufig aufgrund eines unterentwickelten Immunsystems. Leukämie tritt bei Betroffenen häufiger auf, und sie können auch unter Schlafapnoe leiden, einer Störung, die während des Schlafs zu wiederholten, kurzen Atemaussetzern führt. Psychiatrische Erkrankungen wie Hyperaktivität, Zwangsstörungen und Angststörungen werden bei diesen Kindern oft diagnostiziert.
 
-
-
 ### **Verbindung von Mensch und Pferd für Heilung und Wohlbefinden**
 
 In der Physiotherapie ist die Hippotherapie (HTK) ein spezialisierter Bereich. Die Durchführung erfolgt in Kooperation mit einem Pferd. Es ist eine medizinisch Behandlungsmassnahme, die die Übertragung von Pferdebewegungen auf den Patienten verwendet. Der Patient wird durch die Bewegung des Pferdes unterstützt und bewegt sich mit ihm. Er wirkt sich nicht aktiv auf das Pferd aus. "Die HTK ist somit kein Reiten, auch kein therapeutisches Reiten", äussert Brigitte Hofstetter. Die Bewegungen, welche konstant, dreidimensional und in einem Rhythmus erfolgen, haben positive Auswirkungen, darunter die Lockerung der Muskulatur, Gleichgewicht und Koordination. Das Trainieren der Körpersymmetrie, die Stärkung der Muskulatur und die Förderung der Rumpfstabilität ist insbesondere bei Trisomie 21 ein zentrales Ziel. Physiotherapeutin der Neurologischen Klinik Basel, Ursula Künzler, absolvierte in England Einsicht bei einem Reitbetrieb sogenannt "Riding for disabled" und entwickelte eine Therapie und erhielt die offizielle Anerkennung. Die HTK ist für Junge wie auch für Erwachsene geeignet, aber vor allem für Patienten mit angeborenen Bewegungsstörungen, jedoch profitieren auch Patienten mit Hemiparesen von der Hippotherapie. Laut Brigitte wird die HTK bei Trisomie 21 von der Invalidensicherung bezahlt. Rezeptiert wird die Therapie vom Kinderarzt, Neurologen oder Hausarzt und die Zahlung wird von der Krankenkasse übernommen. "Aber jede Therapiestunde wirkt immer sofort", erklärt Frau Hofstetter. Aufgrund der kognitiven Beeinträchtigung von Kindern mit Trisomie 21 ist es oft schwierig, eine regelmässige Physiotherapie durchzuführen. In diesem Zusammenhang hat das Pferd eine wichtige Funktion als Motivator, da es die Kinder anregt, begeistert und aktiv macht. Auf diese Weise wird die Therapie zu einer angenehmen Erfahrung, in der die Kinder auch, wenn sie dem Pferd nicht entfliehen können, erfolgreich sein werden.
 
-{{<box>}} Brigitte Hofstetter
+{{<box title="Brigitte Hofstetter">}}
 
 Die 56-jährige Brigitte Hofstetter arbeitet seit 15 Jahren im Therapiehof Schwand, wobei sie mit Islandpferden zusammenarbeitet und verantwortlich ist, die Klienten mit der Bewegung, sowie das Auf- und Absteigen auf der Rampe zu helfen. Sie ist eine selbstständige Physiotherapeutin und hat ihre eigene Praxis. Als eine Physiokollegin erzählte, dass sie als Hippotherapeutin tätig sei, prüfte sie zunächst, ob sie die zusätzliche Anforderung erfüllte, und absolvierte daraufhin die Ausbildung. 
 
@@ -61,15 +59,13 @@ Die 56-jährige Brigitte Hofstetter arbeitet seit 15 Jahren im Therapiehof Schwa
 
 Sie berichtet, dass sie ihren Beruf liebt, sowohl die Arbeit in der Praxis als auch die Hippotherapie. Dabei steht der Mensch im Mittelpunkt. Die Hippotherapie ermöglicht es ihr, ihren Beruf mit ihrem Hobby zu verbinden. Sie betont die körperliche Anstrengung und dass sie bei jedem Wetter draussen ist. Sie erwähnt, dass sie sehr fröhliche, herzliche Menschen mit einer Vielfalt an Talenten sind. Von den Kindern, die betreut werden, singen die meisten, zum Beispiel wenn sie im Wald unterwegs sind. 
 
-
-
 ### **,,Neunzig von hundert Paaren treiben ab, wenn sie die Diagnose erfahren.’’ Wie reagieren die Eltern auf die Diagnose?**
 
 Nach einigen Minuten warten trifft Frau Aurélie Yekpe ein. Sie ist Gynäkologin (Frauenärztin) und Geburtshelferin. Sie betreut Frauen vor und nach der Schwangerschaft, sowie bei der Geburt des Kindes. Ihr Untersuchungszimmer, wo man ebenfalls Ultraschalle macht, wirkt alles sehr sauber und gut desinfiziert. 
 
 ![Abbildung 5: Medbase Bern (Abseera und Célestine)](medbase.jpeg)
 
-{{<box>}} Dr. med. Aurélie Yekpe
+{{<box title="Dr. med. Aurélie Yekpe">}}
 
 Aurélie Yekpe ist 60 Jahre alt. Sie arbeitet im Spital Medbase am Bahnhof Bern. Nach langen hin und her hat sie sich für die Ausbildung als Gynäkologin und Geburtshelferin entschieden. Studiert hat Frau Yekpe in drei Ländern, zuerst in der Elfenbeinküste danach in Österreich und in Frankreich. Frau Yekpe hat auch ein grosses Interesse an Chirurgie für Fehlbildungen, und würde manchmal auch gerne in einer Praxis arbeiten, wo man nur fünf Patient*innen pro Tag hat. Ihr jetziger Job macht Frau Yekpe sehr viel Spass. Sie liebt es, bei Geburten dabei zu sein, da man nie wissen kann, wie das Ganze ablaufen wird.
 
